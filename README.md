@@ -33,7 +33,7 @@ The trained weights will be saved as se_resnext101_advanced_weights.pth automati
 
 ### 2. Running Inference (Prediction)
 
-To generate predictions on the test dataset and output the result as submission.csv:
+To generate predictions on the test dataset and output the result as submission:
 ```bash
 python predict.py
 ```
